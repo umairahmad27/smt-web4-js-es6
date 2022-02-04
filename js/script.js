@@ -8,7 +8,7 @@ const myName = "Muhammad Umair Ahmad";
 //     return "Muhammad Umair Ahmad"
 // }
 
-const callMyName = (num1 = 6, num2 = 4) => {
+const callMyName = (num1 = 8, num2 = 4) => {
     // if(num2 === undefined){
     //     num2 = 4
     // }
